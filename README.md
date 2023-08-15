@@ -36,3 +36,4 @@ https://jastinxyz.github.io/discord-bot-landing-page-web
 <div align="center">
 Feel free to report bugs in the issue tab or open pull request.
 </div>
+# Pagina
